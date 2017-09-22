@@ -1,3 +1,7 @@
+# __FORKED REPO AS THIS IS REQUIRED BY [WRS_LUX_SERVICE](https://github.com/ScentreGroup/wrs_lux_service)__
+
+----
+
 # ReactWebpackRails
 [![Travis CI](https://travis-ci.org/netguru/react_webpack_rails.svg?branch=master)](https://travis-ci.org/netguru/react_webpack_rails)
 
